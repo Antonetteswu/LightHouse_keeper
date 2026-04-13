@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 0c0bee69b967b2441a3ccad6f9917ac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1038561676536842771
+    second: mushroom-removebg-preview_0
+  - first:
+      213: 6191609819515496301
+    second: mushroom-removebg-preview_1
+  - first:
+      213: -2709188338990219445
+    second: mushroom-removebg-preview_2
+  - first:
+      213: -1623597838218846362
+    second: mushroom-removebg-preview_3
+  - first:
+      213: -7536873452570551615
+    second: mushroom-removebg-preview_4
+  - first:
+      213: -1761051427272148854
+    second: mushroom-removebg-preview_5
+  - first:
+      213: -4149490629824618626
+    second: mushroom-removebg-preview_6
+  - first:
+      213: -5615418160097941789
+    second: mushroom-removebg-preview_7
+  - first:
+      213: 7933404402505636042
+    second: mushroom-removebg-preview_8
+  - first:
+      213: 5160048931829729525
+    second: mushroom-removebg-preview_9
+  - first:
+      213: 5213933183250486291
+    second: mushroom-removebg-preview_10
+  - first:
+      213: -7533742114566448373
+    second: mushroom-removebg-preview_11
+  - first:
+      213: 5647369349565899271
+    second: mushroom-removebg-preview_12
+  - first:
+      213: -2781613776915872391
+    second: mushroom-removebg-preview_13
+  - first:
+      213: -2095432848198989574
+    second: mushroom-removebg-preview_14
+  - first:
+      213: -5530502414141675725
+    second: mushroom-removebg-preview_15
+  - first:
+      213: 5301147821920047778
+    second: mushroom-removebg-preview_16
+  - first:
+      213: 7672489423023061436
+    second: mushroom-removebg-preview_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 247
+        width: 236
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ffa068a94691f0800000000000000
+      internalID: -1038561676536842771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 324
+        width: 44
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67aa0883540de550800000000000000
+      internalID: 6191609819515496301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 324
+        width: 45
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f7bd04f87076ad0800000000000000
+      internalID: -2709188338990219445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 331
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f9fda4e52d779e0800000000000000
+      internalID: -1623597838218846362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 257
+        width: 143
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cad576e685a76790800000000000000
+      internalID: -7536873452570551615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 180
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88bf3eae0d7f87e0800000000000000
+      internalID: -1761051427272148854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 183
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fdd72d14c0a66c0800000000000000
+      internalID: -4149490629824618626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 118
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a5166fe60212b0800000000000000
+      internalID: -5615418160097941789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 23
+        width: 137
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac85ed6654d191e60800000000000000
+      internalID: 7933404402505636042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 45
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f848551a2d2c9740800000000000000
+      internalID: 5160048931829729525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushroom-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 28
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31454460b9c9b5840800000000000000
+      internalID: 5213933183250486291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: db3c1336a2f75e0479545ed3382f5d1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mushroom-removebg-preview_0: -1038561676536842771
+      mushroom-removebg-preview_1: 6191609819515496301
+      mushroom-removebg-preview_10: 5213933183250486291
+      mushroom-removebg-preview_11: -7533742114566448373
+      mushroom-removebg-preview_12: 5647369349565899271
+      mushroom-removebg-preview_13: -2781613776915872391
+      mushroom-removebg-preview_14: -2095432848198989574
+      mushroom-removebg-preview_15: -5530502414141675725
+      mushroom-removebg-preview_16: 5301147821920047778
+      mushroom-removebg-preview_17: 7672489423023061436
+      mushroom-removebg-preview_2: -2709188338990219445
+      mushroom-removebg-preview_3: -1623597838218846362
+      mushroom-removebg-preview_4: -7536873452570551615
+      mushroom-removebg-preview_5: -1761051427272148854
+      mushroom-removebg-preview_6: -4149490629824618626
+      mushroom-removebg-preview_7: -5615418160097941789
+      mushroom-removebg-preview_8: 7933404402505636042
+      mushroom-removebg-preview_9: 5160048931829729525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

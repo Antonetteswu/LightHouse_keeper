@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 6e7bd1ca065e5e64e85bed60245386a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8488585812516530953
+    second: wooden_house-removebg-preview_0
+  - first:
+      213: -5015258894107774051
+    second: wooden_house-removebg-preview_1
+  - first:
+      213: -5780335751036129820
+    second: wooden_house-removebg-preview_2
+  - first:
+      213: -6497894853584840645
+    second: wooden_house-removebg-preview_3
+  - first:
+      213: 37459951231959291
+    second: wooden_house-removebg-preview_4
+  - first:
+      213: 7632146395740757500
+    second: wooden_house-removebg-preview_5
+  - first:
+      213: -2069379799447232926
+    second: wooden_house-removebg-preview_6
+  - first:
+      213: 6433999558704040348
+    second: wooden_house-removebg-preview_7
+  - first:
+      213: -825995971417543897
+    second: wooden_house-removebg-preview_8
+  - first:
+      213: -7542668579611289299
+    second: wooden_house-removebg-preview_9
+  - first:
+      213: 1378817507922729907
+    second: wooden_house-removebg-preview_10
+  - first:
+      213: -9021279869340719043
+    second: wooden_house-removebg-preview_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 280
+        width: 148
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4188f8d2c723a80800000000000000
+      internalID: -8488585812516530953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 279
+        width: 143
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9376189b98366ab0800000000000000
+      internalID: -5015258894107774051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 278
+        width: 159
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed200d824f18cfa0800000000000000
+      internalID: -5780335751036129820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 62
+        width: 148
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b389c38de07d2d5a0800000000000000
+      internalID: -6497894853584840645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 62
+        width: 139
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf00c7e80a5158000800000000000000
+      internalID: 37459951231959291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 61
+        width: 152
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdd7e7c5b4dae960800000000000000
+      internalID: 7632146395740757500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 279
+        width: 144
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a32466238908964489f784af9f527f9
+      internalID: -957921806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 280
+        width: 150
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c9cf0810a411141baacbe390bf563b
+      internalID: -382286692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 278
+        width: 159
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a96ed2021e694883f48bed26e30e2
+      internalID: 1916744193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 60
+        width: 152
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856d0d3fb5c87154882d8a9cfce77962
+      internalID: 1463025100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 62
+        width: 139
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad00315700b7b46ac94e791659f4f5
+      internalID: 1354559451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_house-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb9a964f5f5f4418544c3aac6c5f4c
+      internalID: 1470534000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf0aa314127618647b0ecd995362195d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wooden_house-removebg-preview_0: -8488585812516530953
+      wooden_house-removebg-preview_1: -5015258894107774051
+      wooden_house-removebg-preview_10: 1378817507922729907
+      wooden_house-removebg-preview_11: -9021279869340719043
+      wooden_house-removebg-preview_12: -957921806
+      wooden_house-removebg-preview_13: -382286692
+      wooden_house-removebg-preview_14: 1916744193
+      wooden_house-removebg-preview_15: 1463025100
+      wooden_house-removebg-preview_16: 1354559451
+      wooden_house-removebg-preview_17: 1470534000
+      wooden_house-removebg-preview_2: -5780335751036129820
+      wooden_house-removebg-preview_3: -6497894853584840645
+      wooden_house-removebg-preview_4: 37459951231959291
+      wooden_house-removebg-preview_5: 7632146395740757500
+      wooden_house-removebg-preview_6: -2069379799447232926
+      wooden_house-removebg-preview_7: 6433999558704040348
+      wooden_house-removebg-preview_8: -825995971417543897
+      wooden_house-removebg-preview_9: -7542668579611289299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
